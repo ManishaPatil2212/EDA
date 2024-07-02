@@ -1,1 +1,1 @@
-# EDA
+I have performed EDA(Exploratory data analysis) on the data set.During this process i have solved the problem like null values, skewness , Outliers. After that i have applied Linear regression, Classification Regression,SVM , Decision Tree , Random Forest algorithms to the dataset.
